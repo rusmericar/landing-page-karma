@@ -4,6 +4,8 @@ Landing page en versión de escritorio (1280 px), diseñada y maquetada en **Fig
 
 ![Vista previa de la landing](karma-escritorio.png)
 
+[Ver archivo en Figma (solo lectura)](https://www.figma.com/site/HtPV8Yi0kyIUV08xesEX1q/LANDING-PAGE-KARMA-VER-ESCRITORIO)
+
 ## Qué se trabajó
 
 **Estructura por secciones:** header, hero, equipo, servicios, proyectos, insights, contacto y footer, con capas ordenadas y nombradas.
@@ -17,3 +19,7 @@ Landing page en versión de escritorio (1280 px), diseñada y maquetada en **Fig
 ## Herramientas
 
 Figma
+
+## Autora
+
+Rusmeri
