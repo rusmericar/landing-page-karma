@@ -1,4 +1,4 @@
-# Landing Page· Alma Agency
+# Landing Page: Alma Agency
 
 Landing page en versión de escritorio (1280 px), diseñada y maquetada en **Figma**.
 
