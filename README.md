@@ -2,9 +2,9 @@
 
 Landing page en versión de escritorio (1280 px), diseñada y maquetada en **Figma**.
 
-![Vista previa de la landing](karma-escritorio.png)
+![Vista previa de la landing](alma-escritorio.png)
 
-[Ver archivo en Figma (solo lectura)](https://www.figma.com/site/HtPV8Yi0kyIUV08xesEX1q/LANDING-PAGE-KARMA-VER-ESCRITORIO)
+[Ver archivo en Figma (solo lectura)](https://www.figma.com/site/HtPV8Yi0kyIUV08xesEX1q/LANDING-PAGE-ALMA-VER-ESCRITORIO)
 
 ## Qué se trabajó
 
